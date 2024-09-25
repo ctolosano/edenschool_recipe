@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+
+
+html {
+    background-color: #F3E5D7;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    background-color: #FFFFFF;
+    width: 736px;
+    height: 1464px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.Image {
+    text-align: center;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.Prep {
+    display: block;
+    background-color: #FFF7FB;
+    border-radius: 15px;
+    line-height: 30px;
+    color: #5F564D;
+    padding: 15px;
+}
+
+.Tprep {
+    color: #7A284E;
+}
+
+h2 {
+    color: #854632;
+}
+
+span { 
+    font-weight: 700;
+    color: #5F564D;
+}
+
+.fontflemme {
+    color: #5F564D;
+}
+
+.ingr {
+    line-height: 30px;
+}
+
+.intr {
+    line-height: 30px;
+}
